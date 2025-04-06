@@ -57,7 +57,7 @@ The **RAG Pipeline** ensures that financial insights are generated in real-time 
 ### 1️⃣ Backend Setup (Flask & Fetch.AI Agents)  
 ```bash  
 # Clone the repository  
-git clone https://github.com/Aman071106/FrostHack2025.git  
+git clone https://github.com/gitmanforever/project.git  
 cd FrostHack2025  
 cd aibackend  
 
@@ -69,7 +69,7 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r backend/requirements.txt  
 
 # Run Flask server  
-python backend/app.py  
+python aibackend/app.py  
 ```  
 
 ### 2️⃣ Fetch.AI Agents Setup  
