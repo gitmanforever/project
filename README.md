@@ -117,13 +117,7 @@ http://localhost:3000
 ## 🎯 Future Enhancements  
 - 🏦 **Multi-Bank Support** (Integrate Plaid API for wider banking compatibility)  
 - 📡 **Blockchain Integration** (For secure financial transactions & tracking)  
-
----  
-
-## 🤝 Contributors  
-- **Aman Gupta** - Backend & AI Development  
-- **Harsh Yadav** - Backend & AI Development  
-- **Kunal Mittal** - UI/UX, Frontend Development and Backend Development  
+ 
 
 ---  
 
