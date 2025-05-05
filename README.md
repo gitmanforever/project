@@ -56,7 +56,7 @@ The **RAG Pipeline** ensures that financial insights are generated in real-time 
 ```bash  
 # Clone the repository  
 git clone https://github.com/gitmanforever/project.git  
-cd FrostHack2025  
+cd ... 
 cd aibackend  
 
 # Set up virtual environment  
